@@ -1,0 +1,20 @@
+/* Style for the editor container */
+.editor-container {
+  border: 1px solid #ddd;
+  padding: 10px;
+  min-height: 200px;
+  cursor: text;
+}
+
+/* Red color styling for ** trigger */
+.public-DraftStyleDefault-inlineStyle-RED {
+  color: red;
+}
+
+/* Basic layout styles */
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
